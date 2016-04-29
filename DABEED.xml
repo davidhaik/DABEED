@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="multimedia_playwav" id="153" x="43" y="72">
-    <field name="WAV"></field>
+    <field name="WAV">1</field>
     <next>
       <block type="led_select" id="107" inline="true">
         <field name="ACTION">ON</field>
@@ -11,8 +11,5 @@
         </value>
       </block>
     </next>
-  </block>
-  <block type="math_number" id="160" x="122" y="74">
-    <field name="NUM">1</field>
   </block>
 </xml>
