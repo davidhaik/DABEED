@@ -1,3 +1,15 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_forward" id="92" x="0" y="13"></block>
+  <block type="multimedia_playwav" id="153" x="43" y="72">
+    <field name="WAV"></field>
+    <next>
+      <block type="led_select" id="107" inline="true">
+        <field name="ACTION">ON</field>
+        <value name="LED">
+          <block type="math_number" id="137">
+            <field name="NUM">1</field>
+          </block>
+        </value>
+      </block>
+    </next>
+  </block>
 </xml>
