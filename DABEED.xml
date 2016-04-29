@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="multimedia_playwav" id="153" x="69" y="32">
-    <field name="WAV">1</field>
+    <field name="WAV">100</field>
     <next>
       <block type="robot_delay" id="184" inline="true">
         <value name="DELAY">
