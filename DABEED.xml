@@ -6,7 +6,7 @@
         <field name="ACTION">ON</field>
         <value name="LED">
           <block type="math_number" id="137">
-            <field name="NUM">1</field>
+            <field name="NUM">2</field>
           </block>
         </value>
       </block>
